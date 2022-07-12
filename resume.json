@@ -1,0 +1,80 @@
+{
+    "basics": {
+        "name": "Yash Mangal",
+        "label": "Student",
+        "picture": "https://avatars.githubusercontent.com/u/104120843?s=400&u=f02c809c3b4f2ba04b387de655bdc732bc4880f5&v=4",
+        "email": "2021kuec2047@iiitkota.ac.in",
+        "phone": "+917014151228",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics And Communication Engineering. I have enthusiasm in UI/UX Designer.I am a learner student of Full Stack Web Development",
+        "location": {
+            "address": "Hindaun City",
+            "postalCode": "322230",
+            "city": "Hindaun City",
+            "countryCode": "India",
+            "region": "Rajasthan"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "yashmangal112",
+                "url": "https://github.com/yashmangal112"
+            },
+            {
+                "network": "linkedin",
+                "username": "Yash Mangal",
+                "url": "www.linkedin.com/in/yash-mangal-02ab881b9"
+            },
+            {
+                "network": "Instagram",
+                "username": "Yash Mangal",
+                "url": "https://instagram.com/yash_mangal_112"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "courses": [
+                "Electronics And Communication Engineering"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "name": "Full Stack Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "Git",
+                "C",
+                "Java",
+                "react.js"
+            "name": "UI/UX Designer",
+            "level": "Beginner",
+            "Keywords":[
+                "Figma",
+            ]
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+        }
+    ],
+    "interests": [
+        {
+            "name": "UI/UX Desing",
+            "keywords": [
+                "Figma"
+            ]
+        },
+        
+    ]
+}
