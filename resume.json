@@ -5,6 +5,7 @@
         "picture": "https://avatars.githubusercontent.com/u/104120843?s=400&u=f02c809c3b4f2ba04b387de655bdc732bc4880f5&v=4",
         "email": "2021kuec2047@iiitkota.ac.in",
         "phone": "+917014151228",
+        "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics And Communication Engineering. I have enthusiasm in UI/UX Designer.I am a learner student of Full Stack Web Development",
         "location": {
             "address": "Hindaun City",
@@ -14,6 +15,11 @@
             "region": "Rajasthan"
         },
         "profiles": [
+            {
+                "network": "",
+                "username": "",
+                "url": ""
+            },
             {
                 "network": "Github",
                 "username": "yashmangal112",
@@ -31,6 +37,32 @@
             }
         ]
     },
+    "work": [
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
     "education": [
         {
             "institution": "Indian Institute of Information Technology,Kota",
@@ -41,6 +73,30 @@
             "courses": [
                 "Electronics And Communication Engineering"
             ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
         }
     ],
     "skills": [
@@ -55,11 +111,11 @@
                 "C",
                 "Java",
                 "react.js"
+            ]    
             "name": "UI/UX Designer",
             "level": "Beginner",
             "Keywords":[
                 "Figma",
-            ]
             ]
         }
     ],
@@ -75,6 +131,6 @@
                 "Figma"
             ]
         },
-        
     ]
 }
+
