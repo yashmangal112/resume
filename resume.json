@@ -28,7 +28,7 @@
             {
                 "network": "linkedin",
                 "username": "Yash Mangal",
-                "url": "www.linkedin.com/in/yash-mangal-02ab881b9"
+                "url": "https://linkedin.com/in/yashmangal112"
             },
             {
                 "network": "Instagram",
@@ -101,36 +101,46 @@
     ],
     "skills": [
         {
+            "name": "Programming",
+            "level": "Intermediate",
+            "keywords": [
+                "Java",
+                "C"
+            ]
+        },
+        {
             "name": "Full Stack Development",
             "level": "Beginner",
             "keywords": [
                 "HTML",
                 "CSS",
                 "Javascript",
-                "Git",
-                "C",
-                "Java",
-                "react.js"
-            ]    
-            "name": "UI/UX Designer",
+                "React"
+            ]
+        },
+        {
+            "name": "UI/UX Designing",
             "level": "Beginner",
-            "Keywords":[
-                "Figma",
+            "keywords": [
+                "Figma"
             ]
         }
+
     ],
     "languages": [
         {
-            "language": "English",
+            "language": "English"
+        },
+        {
+            "language": "Hindi"
         }
     ],
     "interests": [
         {
-            "name": "UI/UX Desing",
+            "name": "UI/UX Designing",
             "keywords": [
                 "Figma"
             ]
-        },
+        }
     ]
 }
-
