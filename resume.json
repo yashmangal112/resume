@@ -5,7 +5,7 @@
         "picture": "https://avatars.githubusercontent.com/u/104120843?s=400&u=f02c809c3b4f2ba04b387de655bdc732bc4880f5&v=4",
         "email": "2021kuec2047@iiitkota.ac.in",
         "phone": "+917014151228",
-        "website": "",
+        "website": "http://yashmangal.herokuapp.com/",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Electronics And Communication Engineering. I have enthusiasm in UI/UX Designer.I am a learner student of Full Stack Web Development",
         "location": {
             "address": "Hindaun City",
@@ -109,20 +109,26 @@
             ]
         },
         {
-            "name": "Full Stack Development",
-            "level": "Beginner",
+            "name": "Full Stack Web Development",
+            "level": "Intermediate",
             "keywords": [
                 "HTML",
                 "CSS",
                 "Javascript",
-                "React"
+                "React.js",
+                "Node.js",
+                "Express.js",
+                "MongoDB",
+                "Bootstrap",
+                "Next.js"
             ]
         },
         {
             "name": "UI/UX Designing",
             "level": "Beginner",
             "keywords": [
-                "Figma"
+                "Figma",
+                "Illustrator"
             ]
         }
 
